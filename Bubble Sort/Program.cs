@@ -2,8 +2,7 @@
 {
     static void Main()
     {
-        //int[] numbers = { 50, 2, 20, 4, 0, 6, 14 };
-        int[] numbers = { 50, 2};
+        int[] numbers = { 50, 2, 20, 4, 0, 6, 14 };
         Sort(ref numbers);
         Debug(numbers);
     }
